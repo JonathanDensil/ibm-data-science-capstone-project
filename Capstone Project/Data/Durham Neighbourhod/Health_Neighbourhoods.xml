@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20170914</pubdate>
+                <title>Health Neighbourhoods</title>
+                <geoform>vector digital data</geoform>
+                <onlink>https://maps.durham.ca/arcgis/rest/services/Open_Data/Durham_OpenData/MapServer/12</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Health Neighbourhoods is a polygon dataset representing boundaries creted for the Health Neighbourhoods project within the Region of Durham.</abstract>
+            <purpose>The purpose of this data is to delineate boundaries for use in the Health Neighbourhoods project run within the Region of Durham.</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <rngdates>
+                    <begdate>20130101</begdate>
+                    <enddate>20170914</enddate>
+                </rngdates>
+            </timeinfo>
+            <current>End date of temporal extent represents the last time the metadata for extent was reviewed. Data within this dataset is potentially updated more frequently.</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-79.3076</westbc>
+                <eastbc>-78.4891</eastbc>
+                <northbc>44.4642</northbc>
+                <southbc>43.7979</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>boundaries</themekey>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Durham Health</themekey>
+                <themekey>Health Neighbourhoods</themekey>
+                <themekey>Boundaries</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Open Data License</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Region of Durham</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>physical</addrtype>
+                    <address>605 Rossland Road East</address>
+                    <city>Whitby</city>
+                    <state>Durham Region</state>
+                    <postal>L1N 6A3</postal>
+                    <country>CA</country>
+                </cntaddr>
+                <cntvoice>905-668-7711</cntvoice>
+                <cntemail>opendata@durham.ca</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <datacred>Region of Durham</datacred>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+    </spdoinfo>
+    <metainfo>
+        <metd>20170914</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Region of Durham</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>physical</addrtype>
+                    <address>605 Rossland Road East</address>
+                    <city>Whitby</city>
+                    <state>Durham Region</state>
+                    <postal>L1N 6A3</postal>
+                    <country>CA</country>
+                </cntaddr>
+                <cntvoice>905-668-7711</cntvoice>
+                <cntemail>opendata@durham.ca</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
